@@ -9,13 +9,13 @@
  </thead>
  <tbody>
   <tr>
-    <td>Blue</td><td align=center>✅</td><td align=center>✏️</td><td align=center>Not Available</td>
+    <td>Blue</td><td align=center>✅</td><td align=center>✏️</td><td align=center>In Progress</td>
   </tr>
   <tr>
      <td>Metasploit</td><td align=center>✅</td><td align=center>✅</td><td align=center>http://bit.ly/luckyster895_Metasploit</td>
   </tr>
   <tr>
-     <td>Linux Fundamentals Part 2</td><td align=center>✅</td><td align=center>✏️</td><td align=center>Not Available</td>
+     <td>Linux Fundamentals Part 2</td><td align=center>✅</td><td align=center>✏️</td><td align=center>In Progress</td>
   </tr>
  </tbody>
 </table>
