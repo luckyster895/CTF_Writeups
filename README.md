@@ -20,3 +20,21 @@
  </tbody>
 </table>
 
+## Hackthebox Machine/Challenges
+
+<table>
+ <thead>
+  <tr>
+   <th>Name</th><th>Type</th><th>Os-Difficulty Level</th><th>Completed</th><th>Writeup</th><th>Link</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+    <td>Netmon</td><td align=center>Machine</td><td align=center>Windows-Easy</td><td align=center>✅</td><td align=center>Uploading</td>
+  </tr>
+  <tr>
+    <td>Writeup</td><td align=center>Machine</td><td align=center>Linux-Medium</td><td align=center>✅</td><td align=center>Uploading</td>
+  </tr>
+  
+ </tbody>
+</table>
