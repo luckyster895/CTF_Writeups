@@ -12,7 +12,7 @@
     <td>Blue</td><td align=center>✅</td><td align=center>✏️</td><td align=center>In Progress</td>
   </tr>
   <tr>
-     <td>Metasploit</td><td align=center>✅</td><td align=center>✅</td><td align=center>http://bit.ly/luckyster895_Metasploit</td>
+     <td>Metasploit</td><td align=center>✅</td><td align=center>✅</td><td align=center>http://bit.ly/luckyster895_metasploit</td>
   </tr>
   <tr>
      <td>Linux Fundamentals Part 2</td><td align=center>✅</td><td align=center>✏️</td><td align=center>In Progress</td>
